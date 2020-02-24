@@ -37,7 +37,7 @@
     },
     "sources": [
         {
-            "bibtexKey": "",
+            "bibkey": "",
             "title": "",
             "description": "",
             "path": "",
@@ -53,9 +53,11 @@
             ]
         },
         {
+            "bibkey": "",
             "title": "",
             "description": "",
             "path": "",
+            "doi": "",
             "licenses": [
                 {
                     "name": "",
